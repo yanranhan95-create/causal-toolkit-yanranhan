@@ -1,11 +1,17 @@
 # causal-toolkit-yanranhan
 
-A simple causal inference toolkit including:
-- ATE estimation (Week 02)
-- Propensity score methods (Week 03)
-- Meta-learners for CATE (Week 04)
+A small Python package that implements several basic causal inference estimators from the course:
+
+Average Treatment Effect (ATE) for randomized experiments
+
+Propensity-score methods (IPW and Doubly Robust)
+
+Meta-learners (S-learner, T-learner, X-learner)
+
+Double Machine Learning (binary and continuous treatment)
 
 ## Installation
 
 ```bash
 uv pip install -e .
+pip install git+https://github.com/yanranhan95-create/causal-toolkit-yanranhan.git
