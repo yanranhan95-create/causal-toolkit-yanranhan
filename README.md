@@ -1,3 +1,8 @@
+[![Tests](https://github.com/yanranhan95-create/causal-toolkit-yanranhan/workflows/Tests/badge.svg)](https://github.com/yanranhan95-create/causal-toolkit-yanranhan/actions)
+[![PyPI version](https://badge.fury.io/py/causal-toolkit-yanranhan.svg)](https://pypi.org/project/causal-toolkit-yanranhan/)
+
+
+
 # causal-toolkit-yanranhan
 
 A small Python package that implements several basic causal inference estimators from the course:
